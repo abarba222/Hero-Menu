@@ -1,0 +1,54 @@
+<div class="order-bar">
+
+      <div class="your-order">
+        <div class="your-order-text">Your Order</div>
+        <a href="#">JUSTice For Me</a>
+      </div>
+
+      <div class="company-name">
+        <img class="tiny-logo" style="height:auto; width:auto; max-width:70px; max-height:7 0px;" src='./images/hero-logo.png'>
+        <h3 class="company-name-text">The Vigilante League</h3>
+      </div>
+
+      <div class="order-table">
+        <table class="item-subtotal-table">
+          <tr class="top-row">
+            <th class="item">Item</th>
+            <th class="price">Price</th>
+          </tr>
+
+          {{#each}}
+          <tr>
+            <span class="delete-item"> x </span>
+            <td></td>
+            <td></td>
+          </tr>
+          {{/each}}
+
+          <tr class="bottom-row">
+            <th class="subtotal">Subtotal</th>
+          </tr>
+
+          <tr>
+            <td class="money">${{subtotal}}</td>
+          </tr>
+
+        </table>
+      </div>
+
+      <div class="order-total">
+        <h4 class="total-total">Total: ${{total}}</h4>
+      </div>
+
+      <form class="personal-order">
+
+        <input class="order-first-name" type="text" placeholder="First Name">
+        <input class="order-last-name" type="text" placeholder="Last Name">
+        <button class="finish-order">Order!</button>
+
+
+      </form>
+
+    </div>
+
+    </div>
