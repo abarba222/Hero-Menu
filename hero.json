@@ -1,0 +1,596 @@
+[
+  {
+    "id":"1",
+    "number":"1",
+    "name":"Batman",
+    "description":"Flash the Bat Signal!... or just call JUSTice For Me. When confronted by gangsters or house invaders, call the Caped Crusader to be your savior.",
+    "price":"4300",
+    "category":"Imminent Danger"
+  },
+
+    {
+      "id":"2",
+      "number":"2",
+      "name":"Superman",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "price":"5000",
+      "category":"It's Too Late"
+    },
+
+  {
+    "id":"3",
+    "number":"3",
+    "name":"Wonder Women",
+    "description":"",
+    "price":"3000",
+    "category":"Pale From Fear"
+  },
+
+  {
+    "id":"4",
+    "number":"4",
+    "name":"Flash",
+    "description":"",
+    "price":"2300",
+    "category":"Enforcers"
+  },
+
+  {
+    "id":"5",
+    "number":"5",
+    "name":"Green Lantern",
+    "description":"",
+    "price":"1900",
+    "category":"My Ex Is Crazy"
+  },
+
+  {
+    "id":"6",
+    "number":"6",
+    "name":"Aquaman",
+    "description":"Useful if you're stranded in the ocean...",
+    "price":"700",
+    "category":"Somewhat Deals"
+  },
+
+  {
+    "id":"7",
+    "number":"7",
+    "name":"Green Arrow",
+    "description":"",
+    "price":"1400",
+    "category":"I'm Being Bullied"
+  },
+
+  {
+    "id":"8",
+    "number":"8",
+    "name":"Spider-Man",
+    "description":"",
+    "price":"2200",
+    "category":"That Alley Looks Dark"
+  },
+
+  {
+    "id":"9",
+    "number":"9",
+    "name":"Ant-Man",
+    "description":"",
+    "price":"1200",
+    "category":"I'm Being Bullied"
+  },
+
+  {
+    "id":"10",
+    "number":"10",
+    "name":"Daredevil",
+    "description":"",
+    "price":"1800",
+    "category":"That Alley Looks Dark"
+  },
+
+  {
+    "id":"11",
+    "number":"11",
+    "name":"Iron Fist",
+    "description":"",
+    "price":"2400",
+    "category":"Enforcers"
+  },
+
+  {
+    "id":"12",
+    "number":"12",
+    "name":"Black Bolt",
+    "description":"",
+    "price":"2700",
+    "category":"Pale From Fear"
+  },
+
+  {
+    "id":"13",
+    "number":"13",
+    "name":"Doctor Strange",
+    "description":"",
+    "price":"4100",
+    "category":"Life Threatening"
+  },
+
+  {
+    "id":"14",
+    "number":"14",
+    "name":"Vision",
+    "description":"",
+    "price":"2500",
+    "category":"Trouble's Brewing"
+  },
+
+  {
+    "id":"15",
+    "number":"15",
+    "name":"Scarlet Witch",
+    "description":"",
+    "price":"1600",
+    "category":"Trouble's Brewing"
+  },
+
+  {
+    "id":"16",
+    "number":"16",
+    "name":"Black Panther",
+    "description":"",
+    "price":"3500",
+    "category":"Life Threatening"
+  },
+
+  {
+    "id":"17",
+    "number":"17",
+    "name":"Captain Marvel",
+    "description":"",
+    "price":"3400",
+    "category":"Life Threatening"
+  },
+
+  {
+    "id":"18",
+    "number":"18",
+    "name":"The Punisher",
+    "description":"",
+    "price":"2000",
+    "category":"Enforcers"
+  },
+
+  {
+    "id":"19",
+    "number":"19",
+    "name":"Star-Lord",
+    "description":"",
+    "price":"2000",
+    "category":"Enforcers"
+  },
+
+  {
+    "id":"20",
+    "number":"20",
+    "name":"Gamora",
+    "description":"She was willing to betray Ronan, no doubt she can handle your earthling foe.",
+    "price":"3500",
+    "category":"Imminent Danger"
+  },
+
+  {
+    "id":"21",
+    "number":"21",
+    "name":"Drax the Destroyer",
+    "description":"Nothing will go over Drax's head... for his reflexs are too fast, and he will catch it.",
+    "price":"2500",
+    "category":"Pale From Fear"
+  },
+
+  {
+    "id":"22",
+    "number":"22",
+    "name":"Groot",
+    "description":"I am Groot ('Don't worry I'll protect you').",
+    "price":"1900",
+    "category":"I'm Being Bullied"
+  },
+
+  {
+    "id":"23",
+    "number":"23",
+    "name":"Rocket",
+    "description":"A valuable team member but needs an enforcer in most circumstances.",
+    "price":"700",
+    "category":"Somewhat Deals"
+  },
+
+  {
+    "id":"24",
+    "number":"24",
+    "name":"Powerpuff Girls",
+    "description":"",
+    "price":"3000",
+    "category":"Potent Posses"
+  },
+
+  {
+    "id":"25",
+    "number":"25",
+    "name":"Captain America",
+    "description":"",
+    "price":"3700",
+    "category":"Imminent Danger"
+  },
+
+  {
+    "id":"26",
+    "number":"26",
+    "name":"Iron Man",
+    "description":"",
+    "price":"4600",
+    "category":"Imminent Danger"
+  },
+
+  {
+    "id":"27",
+    "number":"27",
+    "name":"Black Widow",
+    "description":"",
+    "price":"1900",
+    "category":"Trouble's Brewing"
+  },
+
+  {
+    "id":"28",
+    "number":"28",
+    "name":"Hulk",
+    "description":"",
+    "price":"3100",
+    "category":"Pale From Fear"
+  },
+
+  {
+    "id":"30",
+    "number":"30",
+    "name":"Thor",
+    "description":"",
+    "price":"4500",
+    "category":"It's Too Late"
+  },
+
+  {
+    "id":"31",
+    "number":"31",
+    "name":"Hawkeye",
+    "description":"The odds you'll be safe with Hawkeye around are much more than just a shot in the dark.",
+    "price":"2200",
+    "category":"That Alley Looks Dark"
+  },
+
+  {
+    "id":"32",
+    "number":"32",
+    "name":"Fantastic Four",
+    "description":"",
+    "price":"4800",
+    "category":"Potent Posses"
+  },
+
+  {
+    "id":"33",
+    "number":"33",
+    "name":"Wolverine",
+    "description":"Your attacker better wish they are stronger than Attimantium otherwise this fight will be over quickly.",
+    "price":"3300",
+    "category":"Pale From Fear"
+  },
+
+  {
+    "id":"34",
+    "number":"34",
+    "name":"Beast",
+    "description":"",
+    "price":"2600",
+    "category":"Pale From Fear"
+  },
+
+  {
+    "id":"35",
+    "number":"35",
+    "name":"Colossus",
+    "description":"",
+    "price":"1900",
+    "category":"Enforcers"
+  },
+
+  {
+    "id":"36",
+    "number":"36",
+    "name":"Cyclops",
+    "description":"",
+    "price":"2700",
+    "category":"Enforcers"
+  },
+
+  {
+    "id":"37",
+    "number":"37",
+    "name":"Gambit",
+    "description":"",
+    "price":"1800",
+    "category":"I'm Being Bullied"
+  },
+
+  {
+    "id":"38",
+    "number":"38",
+    "name":"Jean Grey",
+    "description":"",
+    "price":"3900",
+    "category":"It's Too Late"
+  },
+
+  {
+    "id":"39",
+    "number":"39",
+    "name":"Nightcrawler",
+    "description":"",
+    "price":"1500",
+    "category":"I'm Being Bullied"
+  },
+
+  {
+    "id":"40",
+    "number":"40",
+    "name":"Rogue",
+    "description":"",
+    "price":"3000",
+    "category":"Life Threatening"
+  },
+
+  {
+    "id":"41",
+    "number":"41",
+    "name":"Storm",
+    "description":"",
+    "price":"3500",
+    "category":"Imminent Danger"
+  },
+
+  {
+    "id":"42",
+    "number":"42",
+    "name":"Nite Owl II",
+    "description":"Probably a useful allie but would you really feel safe with just him around?",
+    "price":"800",
+    "category":"Somewhat Deals"
+  },
+
+  {
+    "id":"43",
+    "number":"43",
+    "name":"Silver Spectre II",
+    "description":"",
+    "price":"1200",
+    "category":"My Ex Is Crazy"
+  },
+
+  {
+    "id":"44",
+    "number":"44",
+    "name":"The Comedian",
+    "description":"This is no laughing matter, your bully will wish he didn't figure you a joke.",
+    "price":"1500",
+    "category":"I'm Being Bullied"
+  },
+
+  {
+    "id":"45",
+    "number":"45",
+    "name":"Rorschach",
+    "description":"",
+    "price":"1500",
+    "category":"That Alley Looks Dark"
+  },
+
+  {
+    "id":"46",
+    "number":"46",
+    "name":"Ozymandias",
+    "description":"The smartest man in the world will surely think up how to keep you out of harms way.",
+    "price":"1700",
+    "category":"Trouble's Brewing"
+  },
+
+  {
+    "id":"47",
+    "number":"47",
+    "name":"Dr. Manhattan",
+    "description":"",
+    "price":"6000",
+    "category":"It's Too Late"
+  },
+
+  {
+    "id":"48",
+    "number":"48",
+    "name":"Professor Dumbledore",
+    "description":"",
+    "price":"4300",
+    "category":"It's Too Late"
+  },
+
+  {
+    "id":"49",
+    "number":"49",
+    "name":"Harry Potter",
+    "description":"Call on the Chosen One to lead you out of danger when trouble is brewing.",
+    "price":"2300",
+    "category":"Trouble's Brewing"
+  },
+
+  {
+    "id":"50",
+    "number":"50",
+    "name":"Edward Cullen",
+    "description":"",
+    "price":"2100",
+    "category":"That Alley Looks Dark"
+  },
+
+  {
+    "id":"51",
+    "number":"51",
+    "name":"Jacob Black",
+    "description":"",
+    "price":"1800",
+    "category":"My Ex Is Crazy"
+  },
+
+  {
+    "id":"52",
+    "number":"52",
+    "name":"Merlin",
+    "description":"",
+    "price":"2400",
+    "category":"Trouble's Brewing"
+  },
+
+  {
+    "id":"53",
+    "number":"53",
+    "name":"Van Helsing",
+    "description":"",
+    "price":"1600",
+    "category":"That Alley Looks Dark"
+  },
+
+  {
+    "id":"54",
+    "number":"54",
+    "name":"John Snow",
+    "description":"Winter is coming... and so is Jon Snow if you're in trouble.",
+    "price":"2100",
+    "category":"Enforcers"
+  },
+
+  {
+    "id":"55",
+    "number":"55",
+    "name":"Luke Skywalker",
+    "description":"He'll force you to safety before you can say, 'is that a glow stick?'",
+    "price":"2000",
+    "category":"Trouble's Brewing"
+  },
+
+  {
+    "id":"56",
+    "number":"56",
+    "name":"Power Rangers",
+    "description":"",
+    "price":"3500",
+    "category":"Potent Posses"
+  },
+
+  {
+    "id":"57",
+    "number":"57",
+    "name":"Hellboy",
+    "description":"",
+    "price":"2400",
+    "category":"Enforcers"
+  },
+
+  {
+    "id":"58",
+    "number":"58",
+    "name":"Hit-Girl",
+    "description":"Odds are you'll end up pretty bloodied if you call Hit-Girl. At least it won't be your blood.",
+    "price":"2500",
+    "category":"That Alley Looks Dark"
+  },
+
+  {
+    "id":"59",
+    "number":"59",
+    "name":"Kick-Ass",
+    "description":"The perfect solution if you want your bully to get the point and feel slightly uncomfortable.",
+    "price":"1300",
+    "category":"I'm Being Bullied"
+  },
+
+  {
+    "id":"60",
+    "number":"60",
+    "name":"Scott Pilgrim",
+    "description":"There's no better man to turn to when trying to find a way to deal with a crazy ex.",
+    "price":"1100",
+    "category":"My Ex Is Crazy"
+  },
+
+  {
+    "id":"61",
+    "number":"61",
+    "name":"Teenage Mutant Ninja Turtles",
+    "description":"",
+    "price":"4400",
+    "category":"Potent Posses"
+  },
+
+  {
+    "id":"62",
+    "number":"62",
+    "name":"Chuck Norris",
+    "description":"",
+    "price":"1400",
+    "category":"I'm Being Bullied"
+  },
+
+  {
+    "id":"63",
+    "number":"63",
+    "name":"James Bond",
+    "description":"Regardless of whether he seduces your attacker or kills them, he'll get the job done.",
+    "price":"1400",
+    "category":"Trouble's Brewing"
+  },
+
+  {
+    "id":"64",
+    "number":"64",
+    "name":"Austin Powers",
+    "description":"For when James Bond is busy or your budget is tight.",
+    "price":"600",
+    "category":"Somewhat Deals"
+  },
+
+  {
+    "id":"65",
+    "number":"65",
+    "name":"Ron Weasley",
+    "description":"His magic works sometimes... that's good enough right?",
+    "price":"500",
+    "category":"Somewhat Deals"
+  },
+
+  {
+    "id":"66",
+    "number":"66",
+    "name":"Robin",
+    "description":"Just hope the Boy Wonder doesn't leave you wondering why you called him.",
+    "price":"500",
+    "category":"Somewhat Deals"
+  },
+
+  {
+    "id":"67",
+    "number":"67",
+    "name":"Rambo",
+    "description":"It doesn't matter that you can't understand him, the dude's a one man army!",
+    "price":"2100",
+    "category":"Life Threatening"
+  }
+
+]
